@@ -43,7 +43,7 @@ https://thecleverprogrammer.com/2020/09/30/pencil-sketch-with-python/
 
 YOUTUBE LINK : https://youtu.be/lXw38eZcBp4
 
-LINKEDIN LINK:
+LINKEDIN LINK: https://www.linkedin.com/posts/shashank-k-s-b5b3331b5_task2-letsgrowmore-lgmvipoctober-activity-6854478241206456320-v88C
 
 GITHUB LINK:https://github.com/shashankks0709/LGMVIP-DataScience/blob/main/TASK2%40LGMVIP-DataScience.ipynb
 
