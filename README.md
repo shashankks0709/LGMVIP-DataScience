@@ -25,7 +25,7 @@ YOUTUBE LINK :
 
 LINKEDIN LINK:
 
-GITHUB LINK:
+GITHUB LINK:https://github.com/shashankks0709/LGMVIP-DataScience/blob/main/Task1%40LGMVIP-DataScience.ipynb
 
 # TASK2:Image to Pencil Sketch with Python
 
