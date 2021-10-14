@@ -1,14 +1,14 @@
 # LGMVIP-DataScience
 Data Science Internship at LETS GROW MORE
 
-#About Company:
+# About Company:
 
 LETSGROWMORE is a community of diverse people coming together 
 with similar objectives and ultimate goals. LETS GROW MORE deep downed its 
 roots at the very beginning of this year as a result of an idea that was brought up 
 to be real by the Founder of LETSGROWMORE - AMAN KESARWANI.
 
-#TASK1:Iris Flowers Classification ML Project 
+# TASK1:Iris Flowers Classification ML Project 
 
 Problem:
 
@@ -27,7 +27,7 @@ LINKEDIN LINK:
 
 GITHUB LINK:
 
-#TASK2:Image to Pencil Sketch with Python
+# TASK2:Image to Pencil Sketch with Python
 
 Problem:
 
