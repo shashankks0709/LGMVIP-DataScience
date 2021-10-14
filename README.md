@@ -45,7 +45,7 @@ YOUTUBE LINK :
 
 LINKEDIN LINK:
 
-GITHUB LINK:
+GITHUB LINK:https://github.com/shashankks0709/LGMVIP-DataScience/blob/main/TASK2%40LGMVIP-DataScience.ipynb
 
 
 Intern Name : Shashank K S
