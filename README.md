@@ -23,7 +23,7 @@ http://archive.ics.uci.edu/ml/datasets/Iris
 
 YOUTUBE LINK : https://youtu.be/exsdeRgDlxE
 
-LINKEDIN LINK:
+LINKEDIN LINK: https://www.linkedin.com/posts/shashank-k-s-b5b3331b5_task1-letsgrowmore-lgmvipoctober-activity-6854476951239872512-2S1O
 
 GITHUB LINK:https://github.com/shashankks0709/LGMVIP-DataScience/blob/main/Task1%40LGMVIP-DataScience.ipynb
 
