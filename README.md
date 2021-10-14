@@ -7,7 +7,9 @@ roots at the very beginning of this year as a result of an idea that was brought
 to be real by the Founder of LETSGROWMORE - AMAN KESARWANI.
 
 #TASK1:Iris Flowers Classification ML Project 
+
 Problem:
+
 This particular ML project is usually referred 
 to as the “Hello World” of Machine Learning. The iris flowers 
 dataset contains numeric attributes, and it is perfect for beginners to 
@@ -16,12 +18,17 @@ since this is a small dataset, it can easily fit in memory without requiring spe
 Datasetlink Watch Tutorial from here
 https://youtu.be/CBCfOTePVPo  
 http://archive.ics.uci.edu/ml/datasets/Iris
+
 YOUTUBE LINK :
+
 LINKEDIN LINK:
+
 GITHUB LINK:
 
 #TASK2:Image to Pencil Sketch with Python
+
 Problem:
+
 We need to read the image in RBG format and then convert it to a grayscale image.
 This will turn an image into a classic black and white photo. 
 Then the next thing to do is invert the grayscale image also called negative image,
@@ -31,10 +38,14 @@ This can be done by dividing the grayscale image by the inverted blurry image. S
 we can easily do this programmatically using the divide function from the cv2 library in Python. 
 Reference:Watch Tutorial from here https://youtu.be/CBCfOTePVPo
 https://thecleverprogrammer.com/2020/09/30/pencil-sketch-with-python/
+
 YOUTUBE LINK :
+
 LINKEDIN LINK:
+
 GITHUB LINK:
 
 
 Intern Name : Shashank K S
+
 EMAIL ID : shashankreddy0709@gmail.com
