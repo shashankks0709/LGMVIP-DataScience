@@ -41,7 +41,7 @@ we can easily do this programmatically using the divide function from the cv2 li
 Reference:Watch Tutorial from here https://youtu.be/CBCfOTePVPo
 https://thecleverprogrammer.com/2020/09/30/pencil-sketch-with-python/
 
-YOUTUBE LINK :
+YOUTUBE LINK : https://youtu.be/lXw38eZcBp4
 
 LINKEDIN LINK:
 
